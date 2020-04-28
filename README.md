@@ -7,6 +7,9 @@ An awesome Ubuntu flavor.
 - [API Budgie 1.0](https://lazka.github.io/pgi-docs/Budgie-1.0/index.html#) - API of the introspection library which allows creating plugins in Python3, C and Vala.
 - [Discourse (tag: budgie-applets)](https://discourse.ubuntubudgie.org/c/budgie-applets)
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop/tree/master/src/applets) - Solus project Budgie applets.
+- [solus-project/budgie-desktop-examples (C project)](https://github.com/solus-project/budgie-desktop-examples/tree/master/c_project)
+- [solus-project/budgie-desktop-examples (Python project)](https://github.com/solus-project/budgie-desktop-examples/tree/master/python_project)
+- [solus-project/budgie-desktop-examples (Vala project)](https://github.com/solus-project/budgie-desktop-examples/tree/master/vala_project)
 - [UbuntuBudgie/budgie-extras](https://github.com/UbuntuBudgie/budgie-extras) - Additional Budgie Desktop enhancements for the user experience.
 - [UbuntuBudgie/experimental (Vala hello world template)](https://github.com/UbuntuBudgie/experimental/tree/master/development_only/templates/budgie-hello-world)
 - [UbuntuBudgie/experimental (Vala template)](https://github.com/UbuntuBudgie/experimental/tree/master/development_only/templates/template)
