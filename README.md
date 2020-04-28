@@ -4,6 +4,7 @@ An awesome Ubuntu flavor.
 
 ## Applets
 
+- [API Budgie 1.0](https://lazka.github.io/pgi-docs/Budgie-1.0/index.html#) - API of the introspection library which allows creating plugins in Python3, C and Vala.
 - [Discourse (tag: budgie-applets)](https://discourse.ubuntubudgie.org/c/budgie-applets)
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop/tree/master/src/applets) - Solus project Budgie applets.
 - [UbuntuBudgie/budgie-extras](https://github.com/UbuntuBudgie/budgie-extras) - Additional Budgie Desktop enhancements for the user experience.
