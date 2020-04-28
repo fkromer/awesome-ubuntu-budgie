@@ -8,6 +8,8 @@ An awesome Ubuntu flavor.
 - [Discourse (tag: budgie-applets)](https://discourse.ubuntubudgie.org/c/budgie-applets)
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop/tree/master/src/applets) - Solus project Budgie applets.
 - [UbuntuBudgie/budgie-extras](https://github.com/UbuntuBudgie/budgie-extras) - Additional Budgie Desktop enhancements for the user experience.
+- [UbuntuBudgie/experimental (Vala hello world template)](https://github.com/UbuntuBudgie/experimental/tree/master/development_only/templates/budgie-hello-world)
+- [UbuntuBudgie/experimental (Vala template)](https://github.com/UbuntuBudgie/experimental/tree/master/development_only/templates/template)
 
 ## Themes
 
